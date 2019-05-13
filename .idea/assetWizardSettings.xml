@@ -14,8 +14,8 @@
                         <option name="values">
                           <map>
                             <entry key="assetSourceType" value="FILE" />
-                            <entry key="outputName" value="ic_chart_line" />
-                            <entry key="sourceFile" value="C:\Users\Disp-User\Downloads\chart-line.svg" />
+                            <entry key="outputName" value="ic_thumb_down" />
+                            <entry key="sourceFile" value="$USER_HOME$/Downloads/thumb-down.svg" />
                           </map>
                         </option>
                       </PersistentState>
